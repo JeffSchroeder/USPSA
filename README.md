@@ -1,0 +1,5 @@
+# USPSA
+This repo contains a standard USPSA stage template for Microsoft Power Point along with the stages I have designed for different competitions. Feel free to use the resources here. All you need to get started is the template and a bit of MS Power Point knowledge. If you have something to add to the template like a new target or props, please branch and make a pull request with a descent description of what was added so I can find it.  I have a `Community` folder in the repo with `Indoor` and `Outdoor` folders. If you have a really fun stage, go ahead and get them into a branch and send me a merge request. 
+
+## Getting started
+If you are new to github.com you can download the whole repo using the Code/Download Zip button, unzip it, delete what you don't want and you are good to go. If are proficient with git repos, do your thing. Once you have the repo/files, copy/duplicate the USPSA_Template.ppt, rename the copy to what you want, and get to work designing your stage. You'll figure out, plenty of MS Power Point tutorials on YouTube.
