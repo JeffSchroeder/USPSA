@@ -9,4 +9,4 @@ There is also the USPSA_TheOriginalTemplate.ppt. This the original presentation 
 ## Special thanks!
 I did not create the templates. I received this from a shooting friend who I think got it off the web somewhere. Thank you to the person who initial made the templates! 
 
-Here is another great public repo from [bagellord](https://github.com/bagellord/USPSA-Stages).
+Here is another great public repo from [bagellord](https://github.com/bagellord/USPSA-Stages) if you can work in sketch up.
