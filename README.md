@@ -4,6 +4,8 @@ This repo contains a standard USPSA stage template for Microsoft Power Point alo
 ## Getting started
 If you are new to github.com you can download the whole repo using the Code/Download Zip button, unzip it, delete what you don't want and you are good to go. If are proficient with git repos, do your thing. Once you have the repo/files, copy/duplicate the USPSA_StageDesignTemplate.ppt, rename the copy to what you want, and get to work designing your stage. You'll figure out, plenty of MS Power Point tutorials on YouTube.
 
+The USPSA_StageDesignTemplate.ppt has targets and walls but I broke the props out into their own files and maintain those things there. Every now and then I will bring them into the template but not everytime. 
+
 There is also the USPSA_TheOriginalTemplate.ppt. This the original presentation that contains some designed stages to look how the creator of the presentation used it. Good luck.
 
 ## Special thanks!
